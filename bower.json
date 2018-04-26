@@ -1,0 +1,8 @@
+{
+    "name": "build-stylekit",
+    "dependencies": {
+        "normalize-scss": "3.0.*",
+        "centagon-primer": "^0.1.0",
+        "font-awesome": "^4.7.0"
+    }
+}
