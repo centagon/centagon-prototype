@@ -12,7 +12,6 @@
     "boilerplate",
     "html",
     "scss",
-    "boilerplate / html scss",
     "prototyping"
   ],
   "require": {
