@@ -6,8 +6,8 @@
     "name": "Lex Lemmens",
     "email": "lex.lemmens@centagon.com"
   }],
-  "version": "master",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "keywords": [
     "boilerplate",
     "html",
