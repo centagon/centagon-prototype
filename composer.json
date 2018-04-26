@@ -1,5 +1,21 @@
 {
-    "require": {
-        "philo/laravel-blade": "^3.1"
-    }
+  "name": "centagon/centagon-prototype",
+  "description": "A boilerplate for prototyping html / scss",
+  "type": "package",
+  "authors": [{
+    "name": "Lex Lemmens",
+    "email": "lex.lemmens@centagon.com"
+  }],
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "keywords": [
+    "boilerplate",
+    "html",
+    "scss",
+    "boilerplate / html scss",
+    "prototyping"
+  ],
+  "require": {
+    "philo/laravel-blade": "^3.1"
+  }
 }
